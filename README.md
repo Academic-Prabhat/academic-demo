@@ -1,4 +1,5 @@
 # academic-demo
+
 This is my first Git Repository
 <BR>
-Author - Prabhat Kumar
+Author - Prabhat Kumar (Acadmics)
